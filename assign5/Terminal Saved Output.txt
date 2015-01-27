@@ -1,0 +1,87 @@
+Last login: Sun Nov 30 00:30:47 on ttys000
+Sun-Kyuui-MacBook-Air-2:~ leesunkyu$ ls
+AfterShot Pro                                      Documents                                          My Online Documents                                sent
+AfterShot Pro Catalog                              Downloads                                          Pictures                                           tmp
+Applications                                       Dropbox                                            Public                                             vagrant
+Applications (Parallels)                           Incompatible Software                              a.out                                              wave.vcd
+CA                                                 Library                                            a.out.dSYM                                         사진 2014. 3. 10. 오후 4.11.jpg
+DOSBox                                             Movies                                             libtool
+Desktop                                            Music                                              powerline-fonts
+Sun-Kyuui-MacBook-Air-2:~ leesunkyu$ cd Dropbox/Soucecode/2014-2/Algorithm/assign5/
+Sun-Kyuui-MacBook-Air-2:assign5 leesunkyu$ ./run.sh 
+testcase1
+5 1 1 1
+nan
+1
+
+testcase2
+2 8 4 6
+1
+8
+
+testcase3
+2 5 5 5
+1.6
+1
+
+testcase4
+1 19 19 19
+5.26316
+20
+
+testcase5
+1 10 10 10
+2.31111
+1
+
+testcase6
+5 15 1 5
+2.45714
+9
+
+testcase7
+1 512 512 512
+7.89041
+1
+
+testcase8
+3 120 80 100
+15.6303
+120
+
+testcase9
+4 420 40 275
+2.85703
+40
+
+testcase10
+49 50 2 26
+1
+50
+
+testcase11
+4 520 240 400
+2.83044
+40
+
+testcase12
+101 900 1 9.90099
+1.37597
+1
+
+testcase13
+1 1000 1000 1000
+1.8666
+1
+
+testcase14
+1 1830 1830 1830
+16.1548
+702
+
+testcase15
+1 1000 1000 1000
+1.5
+1
+
+Sun-Kyuui-MacBook-Air-2:assign5 leesunkyu$ 

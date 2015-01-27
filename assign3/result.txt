@@ -1,0 +1,305 @@
+Last login: Thu Oct 16 19:19:17 on ttys000
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_
+run_heapsort.sh       run_insertionsort.sh  run_mergesort.sh      run_quicksort.sh      
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_
+run_heapsort.sh       run_insertionsort.sh  run_mergesort.sh      run_quicksort.sh      
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_
+run_heapsort.sh       run_insertionsort.sh  run_mergesort.sh      run_quicksort.sh      
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_
+run_heapsort.sh       run_insertionsort.sh  run_mergesort.sh      run_quicksort.sh      
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_
+run_heapsort.sh       run_insertionsort.sh  run_mergesort.sh      run_quicksort.sh      
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_
+run_heapsort.sh       run_insertionsort.sh  run_mergesort.sh      run_quicksort.sh      
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_insertionsort.sh 
+testcase1
+200 1
+0.000003 
+
+testcase2
+10 20
+0.000002 
+
+testcase3
+50 3
+0.000004 
+
+testcase4
+10 2
+0.000003 
+
+testcase5
+100 2
+0.000003 
+
+testcase6
+10000 1
+0.001438 
+
+testcase7
+50000 1
+0.000062 
+
+testcase8
+50000 1
+0.038090 
+
+testcase9
+100000 1
+0.000149 
+
+testcase10
+47477 4
+0.077019 
+
+testcase11
+98342 4
+0.085238 
+
+testcase12
+300000 1
+1.434284 
+
+testcase13
+4980 11
+0.755766 
+
+testcase14
+85271 8
+2.016191 
+
+testcase15
+49131 9
+2.050776 
+
+testcase16
+9198 13
+8.115188 
+
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_mergesort.sh 
+testcase1
+200 1
+0.000011 
+
+testcase2
+10 20
+0.000012 
+
+testcase3
+50 3
+0.000011 
+
+testcase4
+10 2
+0.000012 
+
+testcase5
+100 2
+0.000011 
+
+testcase6
+10000 1
+0.000587 
+
+testcase7
+50000 1
+0.002853 
+
+testcase8
+50000 1
+0.003276 
+
+testcase9
+100000 1
+0.006988 
+
+testcase10
+47477 4
+0.008040 
+
+testcase11
+98342 4
+0.008560 
+
+testcase12
+300000 1
+0.015655 
+
+testcase13
+4980 11
+0.019529 
+
+testcase14
+85271 8
+0.032727 
+
+testcase15
+49131 9
+0.033501 
+
+testcase16
+9198 13
+0.064728 
+
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_quicksort.sh 
+testcase1
+200 1
+0.000041 
+
+testcase2
+10 20
+0.000032 
+
+testcase3
+50 3
+0.000022 
+
+testcase4
+10 2
+0.000028 
+
+testcase5
+100 2
+0.000025 
+
+testcase6
+10000 1
+0.000418 
+
+testcase7
+50000 1
+0.001830 
+
+testcase8
+50000 1
+0.001866 
+
+testcase9
+100000 1
+0.003994 
+
+testcase10
+47477 4
+0.004755 
+
+testcase11
+98342 4
+0.005807 
+
+testcase12
+300000 1
+0.011886 
+
+testcase13
+4980 11
+0.016965 
+
+testcase14
+85271 8
+0.026377 
+
+testcase15
+49131 9
+0.027180 
+
+testcase16
+9198 13
+0.053013 
+
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ ./run_heapsort.sh 
+testcase1
+200 1
+0.000004 
+
+testcase2
+10 20
+0.000003 
+
+testcase3
+50 3
+0.000005 
+
+testcase4
+10 2
+0.000003 
+
+testcase5
+100 2
+0.000004 
+
+testcase6
+10000 1
+0.000155 
+
+testcase7
+50000 1
+0.000787 
+
+testcase8
+50000 1
+0.000770 
+
+testcase9
+100000 1
+0.001684 
+
+testcase10
+47477 4
+0.002198 
+
+testcase11
+98342 4
+0.002386 
+
+testcase12
+300000 1
+0.007337 
+
+testcase13
+4980 11
+0.007892 
+
+testcase14
+85271 8
+0.015999 
+
+testcase15
+49131 9
+0.016473 
+
+testcase16
+9198 13
+0.029860 
+
+Sun-Kyuui-MacBook-Air-3:assign3 leesunkyu$ 
